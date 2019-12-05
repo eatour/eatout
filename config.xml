@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>Eatours</name>
+<icon src="icono.png" gap:plataform="android" gap:densuty="ldpi" />
+<description>
+Aplicacion de lugares turisticos del Ecuador
+</description>
+<preference name="permissions" value="none" />
+<author href="https://example.com" email="you@example.com">
+Eatours
+</author>
+
+</widget>
+
